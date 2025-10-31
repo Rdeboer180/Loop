@@ -420,6 +420,12 @@
             "state" : "translated",
             "value" : "%@ U"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ U"
+          }
         }
       }
     },
@@ -535,6 +541,12 @@
           }
         },
         "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ v%2$@"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ v%2$@"
@@ -685,6 +697,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Éventuel"
+          }
+        },
+        "he" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "סופי"
           }
         },
         "it" : {
@@ -846,6 +864,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "g"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "克"
           }
         }
       }
@@ -1036,6 +1060,12 @@
             "state" : "translated",
             "value" : "mg/dL"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mg/dL"
+          }
         }
       }
     },
@@ -1151,6 +1181,12 @@
           }
         },
         "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mmol/L"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "mmol/L"
@@ -1350,6 +1386,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mevcut kan şekerinizi ve insülin iletiminizi görün."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看您当前的血糖值和胰岛素输注情况。"
           }
         }
       }
